@@ -11,6 +11,7 @@
 		9FF0AEEB2A374191001658DA /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FF0AEEA2A374191001658DA /* ContentView.swift */; };
 		9FF0AEED2A374192001658DA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9FF0AEEC2A374192001658DA /* Assets.xcassets */; };
 		9FF0AEF02A374192001658DA /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9FF0AEEF2A374192001658DA /* Preview Assets.xcassets */; };
+		9FF0AEF92A3A3F07001658DA /* ColorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FF0AEF82A3A3F07001658DA /* ColorView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		9FF0AEEA2A374191001658DA /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		9FF0AEEC2A374192001658DA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9FF0AEEF2A374192001658DA /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		9FF0AEF82A3A3F07001658DA /* ColorView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				9FF0AEE82A374191001658DA /* ColorizedApp.swift */,
 				9FF0AEEA2A374191001658DA /* ContentView.swift */,
+				9FF0AEF82A3A3F07001658DA /* ColorView.swift */,
 				9FF0AEEC2A374192001658DA /* Assets.xcassets */,
 				9FF0AEEE2A374192001658DA /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9FF0AEF92A3A3F07001658DA /* ColorView.swift in Sources */,
 				9FF0AEEB2A374191001658DA /* ContentView.swift in Sources */,
 				9FF0AEE92A374191001658DA /* ColorizedApp.swift in Sources */,
 			);
